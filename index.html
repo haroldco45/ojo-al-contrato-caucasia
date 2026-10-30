@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Ojo al Contrato · Caucasia</title>
+<meta name="description" content="Veeduría ciudadana a los contratos sin terminar de la Alcaldía de Caucasia y entidades del municipio, con datos en vivo del SECOP II.">
+<meta name="theme-color" content="#0b1f1a">
+<meta property="og:title" content="Ojo al Contrato · Caucasia">
+<meta property="og:description" content="¿Qué contratos de Caucasia siguen sin terminar? Datos en vivo del SECOP II, con alertas.">
+<meta property="og:image" content="https://commons.wikimedia.org/wiki/Special:FilePath/Iglesia_de_la_Sagrada_Familia-Caucasia.jpg?width=1200">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="img/icon-192.png">
+<link rel="apple-touch-icon" href="img/icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="hero">
+  <div class="hero-slides">
+    <div class="slide on" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Iglesia_de_la_Sagrada_Familia-Caucasia.jpg?width=1600')"></div>
+    <div class="slide" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/El_r%C3%ADo_Cauca.jpg?width=1600')"></div>
+  </div>
+  <div class="hero-shade"></div>
+  <nav class="topbar">
+    <div class="brand">Vibras Positivas HM <span>·</span> <b data-i18n="veeduria">Veeduría ciudadana</b></div>
+    <button id="btnLang" class="pill" aria-label="Cambiar idioma">EN</button>
+  </nav>
+  <div class="hero-body">
+    <p class="kicker" data-i18n="kicker">Caucasia, Antioquia · SECOP II en vivo</p>
+    <h1>Ojo al<br><em>Contrato</em></h1>
+    <p class="lead" data-i18n="lead">Todos los contratos del municipio que todavía no se han terminado, con la plata, los plazos y las alertas. Datos oficiales, sin filtro.</p>
+    <div class="hero-actions">
+      <button id="btnRefresh" class="btn primary"><span class="spin"></span><span data-i18n="refresh">Actualizar ahora</span></button>
+      <a href="#lista" class="btn ghost" data-i18n="verContratos">Ver contratos</a>
+    </div>
+    <p id="status" class="status" aria-live="polite"></p>
+  </div>
+</header>
+
+<section class="stats" id="stats">
+  <div class="stat"><b data-count="abiertos">0</b><span data-i18n="sAbiertos">contratos sin terminar</span></div>
+  <div class="stat"><b data-count="valor" data-money>0</b><span data-i18n="sValor">en juego</span></div>
+  <div class="stat hot"><b data-count="vencidos">0</b><span data-i18n="sVencidos">ya vencieron y siguen abiertos</span></div>
+  <div class="stat"><b data-count="alertas">0</b><span data-i18n="sAlertas">con alguna alerta</span></div>
+</section>
+
+<section class="hoy" id="hoy">
+  <div class="sec-head">
+    <h2 data-i18n="hoy">Hoy</h2>
+    <span id="hoyFecha" class="date"></span>
+  </div>
+  <div id="hoyGrid" class="hoy-grid"></div>
+</section>
+
+<section class="peores">
+  <div class="sec-head">
+    <h2 data-i18n="peores">Los que más preocupan</h2>
+    <span class="hint" data-i18n="peoresHint">Desliza</span>
+  </div>
+  <div id="peores" class="rail"></div>
+</section>
+
+<section class="lista" id="lista">
+  <div class="sec-head">
+    <h2 data-i18n="todos">Todos los contratos sin terminar</h2>
+  </div>
+  <div class="tools">
+    <input id="q" type="search" autocomplete="off" data-i18n-ph="buscar" placeholder="Busca por obra, contratista, NIT o número…">
+    <div class="row">
+      <select id="fEntidad"></select>
+      <select id="fOrden">
+        <option value="riesgo" data-i18n="oRiesgo">Más alertas primero</option>
+        <option value="valor" data-i18n="oValor">Más plata primero</option>
+        <option value="fin" data-i18n="oFin">Vencimiento más cercano</option>
+        <option value="firma" data-i18n="oFirma">Más recientes</option>
+      </select>
+    </div>
+    <div id="chips" class="chips"></div>
+  </div>
+  <p id="conteo" class="conteo"></p>
+  <div id="cards" class="cards"></div>
+  <button id="btnMas" class="btn ghost wide" hidden data-i18n="verMas">Ver más</button>
+</section>
+
+<section class="contratistas">
+  <div class="sec-head"><h2 data-i18n="topContratistas">¿Quién se lleva más contratos?</h2></div>
+  <div id="ranking" class="ranking"></div>
+</section>
+
+<section class="noticias" id="noticiasSec" hidden>
+  <div class="sec-head"><h2 data-i18n="noticias">En las noticias</h2></div>
+  <div id="noticias" class="news"></div>
+</section>
+
+<section class="como">
+  <div class="como-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/El_r%C3%ADo_Cauca.jpg?width=1200')"></div>
+  <div class="como-body">
+    <h2 data-i18n="comoT">Cómo hacer veeduría con esta app</h2>
+    <ol>
+      <li data-i18n="como1">Abre un contrato con alerta y mira el plazo, lo pagado y las prórrogas.</li>
+      <li data-i18n="como2">Entra al SECOP con el botón del contrato y revisa los informes de supervisión e interventoría.</li>
+      <li data-i18n="como3">Ve a la obra, toma fotos y compara con lo que dice el contrato.</li>
+      <li data-i18n="como4">Genera el derecho de petición desde la app y radícalo en la Alcaldía. Tienen 15 días hábiles para responder (Ley 1755 de 2015).</li>
+      <li data-i18n="como5">Si no responden o hay plata sin obra: Personería, Contraloría General de Antioquia y Procuraduría.</li>
+    </ol>
+    <p class="nota" data-i18n="notaPagos">Ojo: si un contrato dice $0 pagado, puede ser que la entidad no ha publicado los pagos en el SECOP. Eso también se puede preguntar en el derecho de petición.</p>
+  </div>
+</section>
+
+<footer class="foot">
+  <p data-i18n="fuente">Fuente: SECOP II – Contratos Electrónicos, datos abiertos de Colombia Compra Eficiente (datos.gov.co). La app no inventa ni modifica datos: muestra lo que las entidades publican.</p>
+  <p id="robotInfo"></p>
+  <p class="sign">Vibras Positivas HM · Caucasia · 311 770 0431</p>
+</footer>
+
+<div id="sheet" class="sheet" hidden>
+  <div class="sheet-bg" data-close></div>
+  <article class="sheet-card" role="dialog" aria-modal="true">
+    <button class="close" data-close data-i18n="cerrar">Cerrar</button>
+    <div id="sheetBody"></div>
+  </article>
+</div>
+
+<div id="toast" class="toast" hidden></div>
+
+<script src="app.js"></script>
+</body>
+</html>
