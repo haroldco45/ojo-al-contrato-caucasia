@@ -1,1 +1,62 @@
-[]
+[
+ {
+  "t": "2026-10-30T16:53:20.403Z",
+  "id": "CO1.PCCNTR.10120544",
+  "ref": "CO1.PCCNTR.10120544",
+  "objeto": "5_9501_573 Prestar los servicios personales de apoyo a la gestión para la clasificación; organización; microfilmación o digitalización y disposición final de la",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "estado",
+  "antes": "Aprobado",
+  "despues": "En ejecución"
+ },
+ {
+  "t": "2026-10-30T16:53:20.403Z",
+  "id": "CO1.PCCNTR.10090840",
+  "ref": "CPS-447-2026",
+  "objeto": "PRESTACIÓN DE SERVICIOS PROFESIONALES PARA EL\nFORTALECIMIENTO DE LA SECRETARÍA DE INFRAESTRUCTURA;\nMEDIANTE EL APOYO TÉCNICO A LA SUPERVISIÓN Y EL\nACOMPAÑAMIENT",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "estado",
+  "antes": "Aprobado",
+  "despues": "En ejecución"
+ },
+ {
+  "t": "2026-10-30T16:53:20.403Z",
+  "id": "CO1.PCCNTR.10073701",
+  "ref": "CPS-446-2026",
+  "objeto": "PRESTACION DE SERVICIOS DE APOYO A LAS ACTIVIDADES QUE PROMUEVEN EL DESARROLLO EMPRESARIAL DE EMPRENDIMIENTO EXPO CAUCASIA",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "estado",
+  "antes": "Aprobado",
+  "despues": "En ejecución"
+ },
+ {
+  "t": "2026-10-30T16:53:20.403Z",
+  "id": "CO1.PCCNTR.10033683",
+  "ref": "MC-087-2026",
+  "objeto": "PRESTACIÓN DE SERVICIOS DE APOYO LOGÍSTICO Y SUMINISTRO DE BIENES PARA LA PLANEACIÓN; ORGANIZACIÓN Y EJECUCIÓN DEL FORO DE TURISMO CAUCASIA ENTRE RÍOS Y CULTURA",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "estado",
+  "antes": "Aprobado",
+  "despues": "En ejecución"
+ },
+ {
+  "t": "2026-10-30T16:53:20.403Z",
+  "id": "CO1.PCCNTR.9806525",
+  "ref": "CPS-360-2026",
+  "objeto": "PRESTACIÓN DE SERVICIOS PROFESIONALES PARA EL\nACOMPAÑAMIENTO SOCIAL EN LOS PROGRAMAS Y PROYECTOS DE\nVIVIENDA EJECUTADO POR EL MUNICIPIO DE CAUCASIA",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "estado",
+  "antes": "Aprobado",
+  "despues": "En ejecución"
+ },
+ {
+  "t": "2026-10-30T16:53:20.403Z",
+  "id": "CO1.PCCNTR.9609042",
+  "ref": "SA-014-2026",
+  "objeto": "SUMINISTRO DE INSUMOS AGROPECUARIOS PARA EL FORTALECIMIENTO A PEQUEÑOS Y MEDIANOS PRODUCTORES DEL MUNICIPIO DE CAUCASIA",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "estado",
+  "antes": "Aprobado",
+  "despues": "En ejecución"
+ }
+]
