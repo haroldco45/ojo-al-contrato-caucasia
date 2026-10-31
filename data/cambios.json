@@ -1,5 +1,92 @@
 [
  {
+  "t": "2026-10-31T17:50:39.413Z",
+  "id": "CO1.PCCNTR.10131000",
+  "ref": "MC-094-2026",
+  "objeto": "SERVICIO DE ALQUILER DE VEHICULO TIPO CAMIONETA PARA EL DESARROLLO DE LAS ACTIVIDADES DE TRASLADO DE FUNCIONARIOS PARA LA ATENCION DE POBLACION VULNERABLE; CONS",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "nuevo",
+  "despues": "34400000"
+ },
+ {
+  "t": "2026-10-31T17:50:39.413Z",
+  "id": "CO1.PCCNTR.10127766",
+  "ref": "MC-SUM-023-2026",
+  "objeto": "SUMINISTRO DE ELEMENTOS DE IDENTIFICACIÓN; SEÑALIZACIÓN Y MATERIAL INSTITUCIONAL PERSONALIZADO PARA LA REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA (RPG-BC)",
+  "entidad": "REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA",
+  "tipo": "nuevo",
+  "despues": "5000000"
+ },
+ {
+  "t": "2026-10-31T17:50:39.413Z",
+  "id": "CO1.PCCNTR.10127635",
+  "ref": "MC-PS-022-2026",
+  "objeto": "PRESTAR LOS SERVICIOS DE LOGÍSTICA PARA LA REALIZACIÓN DEL FESTIVAL DE LOS ANGELITOS: POR LA CULTURA; LA CREATIVIDAD Y LA SANA CONVIVENCIA; EN EL MUNICIPIO DE N",
+  "entidad": "REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA",
+  "tipo": "nuevo",
+  "despues": "49000000"
+ },
+ {
+  "t": "2026-10-31T17:50:39.413Z",
+  "id": "CO1.PCCNTR.9755170",
+  "ref": "CPS-265-2026",
+  "objeto": "PRESTACIÓN DE SERVICIOS PROFESIONALES PARA LA GESTIÓN\nY RECUPERACIÓN DE LA CARTERA DEL IMPUESTO PREDIAL\nURBANO DEL MUNICIPIO DE CAUCASIA",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "prorroga",
+  "antes": "0",
+  "despues": "46"
+ },
+ {
+  "t": "2026-10-31T17:50:39.413Z",
+  "id": "CO1.PCCNTR.9755170",
+  "ref": "CPS-265-2026",
+  "objeto": "PRESTACIÓN DE SERVICIOS PROFESIONALES PARA LA GESTIÓN\nY RECUPERACIÓN DE LA CARTERA DEL IMPUESTO PREDIAL\nURBANO DEL MUNICIPIO DE CAUCASIA",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "estado",
+  "antes": "En ejecución",
+  "despues": "Modificado"
+ },
+ {
+  "t": "2026-10-31T17:50:39.413Z",
+  "id": "CO1.PCCNTR.9060946",
+  "ref": "PSP-ANT-CTPGA-106-2026",
+  "objeto": "Prestar servicios de Apoyo a la Gestión en el desarrollo de las actividades de evaluación de competencias laborales en el área clave de Servicios Ambientales; p",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "9354000",
+  "despues": "12472000"
+ },
+ {
+  "t": "2026-10-31T17:50:39.413Z",
+  "id": "CO1.PCCNTR.9060946",
+  "ref": "PSP-ANT-CTPGA-106-2026",
+  "objeto": "Prestar servicios de Apoyo a la Gestión en el desarrollo de las actividades de evaluación de competencias laborales en el área clave de Servicios Ambientales; p",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "prorroga",
+  "antes": "0",
+  "despues": "46"
+ },
+ {
+  "t": "2026-10-31T17:50:39.413Z",
+  "id": "CO1.PCCNTR.9060946",
+  "ref": "PSP-ANT-CTPGA-106-2026",
+  "objeto": "Prestar servicios de Apoyo a la Gestión en el desarrollo de las actividades de evaluación de competencias laborales en el área clave de Servicios Ambientales; p",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "estado",
+  "antes": "En ejecución",
+  "despues": "Modificado"
+ },
+ {
+  "t": "2026-10-31T17:50:39.413Z",
+  "id": "CO1.PCCNTR.8860192",
+  "ref": "PSP-ANT-CTPGA-002-2026",
+  "objeto": "5_9501_02 PRESTAR LOS SERVICIOS PERSONALES CON EL FIN DE ASISTIR LOS PROCESOS DEL ÁREA DE APOYO A SUBDIRECCIÓN Y GESTIÓN HUMANA DEL COMPLEJO TECNOLÓGICO PARA LA",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14109582",
+  "despues": "29786917"
+ },
+ {
   "t": "2026-10-30T16:53:20.403Z",
   "id": "CO1.PCCNTR.10120544",
   "ref": "CO1.PCCNTR.10120544",
