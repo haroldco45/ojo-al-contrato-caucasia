@@ -1,5 +1,82 @@
 [
  {
+  "t": "2026-11-01T10:42:48.546Z",
+  "id": "CO1.PCCNTR.9060468",
+  "ref": "PSP-ANT-CTPGA-028-2026",
+  "objeto": "5_9501_35 Prestar servicios profesionales para apoyar en el desarrollo de las actividades de evaluación de competencias laborales en el área clave Agrícola; par",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "nuevo",
+  "despues": "32738985"
+ },
+ {
+  "t": "2026-11-01T10:42:48.546Z",
+  "id": "CO1.PCCNTR.9009875",
+  "ref": "PSP-ANT-CTPGA-096-2026",
+  "objeto": "5_9501_31 PRESTAR SERVICIOS DE APOYO A LA GESTIÓN PARA APOYAR EN EL DESARROLLO DE LAS ACTIVIDADES DE EVALUACIÓN DE COMPETENCIAS LABORALES EN EL ÁREA CLAVE DE ME",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "9354000",
+  "despues": "12472000"
+ },
+ {
+  "t": "2026-11-01T10:42:48.546Z",
+  "id": "CO1.PCCNTR.9009875",
+  "ref": "PSP-ANT-CTPGA-096-2026",
+  "objeto": "5_9501_31 PRESTAR SERVICIOS DE APOYO A LA GESTIÓN PARA APOYAR EN EL DESARROLLO DE LAS ACTIVIDADES DE EVALUACIÓN DE COMPETENCIAS LABORALES EN EL ÁREA CLAVE DE ME",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "prorroga",
+  "antes": "0",
+  "despues": "32"
+ },
+ {
+  "t": "2026-11-01T10:42:48.546Z",
+  "id": "CO1.PCCNTR.9009875",
+  "ref": "PSP-ANT-CTPGA-096-2026",
+  "objeto": "5_9501_31 PRESTAR SERVICIOS DE APOYO A LA GESTIÓN PARA APOYAR EN EL DESARROLLO DE LAS ACTIVIDADES DE EVALUACIÓN DE COMPETENCIAS LABORALES EN EL ÁREA CLAVE DE ME",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "estado",
+  "antes": "En ejecución",
+  "despues": "Modificado"
+ },
+ {
+  "t": "2026-11-01T10:42:48.546Z",
+  "id": "CO1.PCCNTR.9010544",
+  "ref": "PSP-ANT-CTPGA-097-2026",
+  "objeto": "5_9501_38 PRESTAR SERVICIOS DE APOYO A LA GESTIÓN EN EL DESARROLLO DE LAS ACTIVIDADES DE EVALUACIÓN DE COMPETENCIAS LABORALES EN EL ÁREA CLAVE PECUARIA; PARA LA",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "9354000",
+  "despues": "12472000"
+ },
+ {
+  "t": "2026-11-01T10:42:48.546Z",
+  "id": "CO1.PCCNTR.9010544",
+  "ref": "PSP-ANT-CTPGA-097-2026",
+  "objeto": "5_9501_38 PRESTAR SERVICIOS DE APOYO A LA GESTIÓN EN EL DESARROLLO DE LAS ACTIVIDADES DE EVALUACIÓN DE COMPETENCIAS LABORALES EN EL ÁREA CLAVE PECUARIA; PARA LA",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "prorroga",
+  "antes": "0",
+  "despues": "45"
+ },
+ {
+  "t": "2026-11-01T10:42:48.546Z",
+  "id": "CO1.PCCNTR.9010544",
+  "ref": "PSP-ANT-CTPGA-097-2026",
+  "objeto": "5_9501_38 PRESTAR SERVICIOS DE APOYO A LA GESTIÓN EN EL DESARROLLO DE LAS ACTIVIDADES DE EVALUACIÓN DE COMPETENCIAS LABORALES EN EL ÁREA CLAVE PECUARIA; PARA LA",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "estado",
+  "antes": "En ejecución",
+  "despues": "Modificado"
+ },
+ {
+  "t": "2026-11-01T10:42:48.546Z",
+  "id": "CO1.PCCNTR.9373666",
+  "ref": "MC-CC-005-2026",
+  "objeto": "CONSULTORÍA PARA EL DIAGNÓSTICO; DISEÑO Y SANEAMIENTO CONTABLE Y TRIBUTARIO; INCLUIDO EL COMPONENTE TÉCNICO Y SEGUIMIENTO DE LA INFORMACIÓN FINANCIERA; PRESTACI",
+  "entidad": "REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA",
+  "tipo": "cerrado"
+ },
+ {
   "t": "2026-10-31T17:50:39.413Z",
   "id": "CO1.PCCNTR.10131000",
   "ref": "MC-094-2026",
