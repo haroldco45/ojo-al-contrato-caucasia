@@ -1,5 +1,1787 @@
 [
  {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.10148627",
+  "ref": "CPS-451-2026",
+  "objeto": "PRESTACION DE SERVICIOS DE APOYO A LA GESTION\nOPERATIVA DE SERVICIOS GENERALES EN LAS\nINSTALACIONES DE LA COMISARIA SEGUNDA DEL MUNICIPIO\nDE CAUCASIA",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "nuevo",
+  "despues": "3691500"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.10142737",
+  "ref": "CO1.PCCNTR.10142737",
+  "objeto": "5_9501_594 CONTRATAR EL SERVICIO PARA REALIZAR LOS ANÁLISIS DE LABORATORIO DE AGUA RESIDUAL; AGUA CRUDA Y AGUA POTABLE PARA CONTROL Y MONITOREO AMBIENTAL DEL CO",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "nuevo",
+  "despues": "13884258.09"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.10146061",
+  "ref": "CO1.PCCNTR.10146061",
+  "objeto": "Prestar servicios personales de carácter temporal como operador de maquinaria combinada para apoyar las actividades productivas y formativas desarrolladas en la",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "nuevo",
+  "despues": "5440027"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.10145573",
+  "ref": "CO1.PCCNTR.10145573",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "nuevo",
+  "despues": "6000829"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.10145338",
+  "ref": "MC-098-2026",
+  "objeto": "SUMINISTRO DE ESTANTERÍA METÁLICA; CAJAS PARA ARCHIVO Y ELEMENTOS DEPROTECCIÓN PERSONAL; DESTINADOS A LA ADECUACIÓN; ORGANIZACIÓN;CONSERVACIÓN Y PRESERVACIÓN DE",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "nuevo",
+  "despues": "39999900"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.10145533",
+  "ref": "MC-097-2026",
+  "objeto": "SUMINISTRO DE ALIMENTACIÓN; HOSPEDAJE Y SERVICIOS COMPLEMENTARIOS\nNECESARIOS PARA GARANTIZAR LA EJECUCIÓN DE LAS ACTIVIDADES DEL PLAN DE\nTRABAJO DE LA MESA DE P",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "nuevo",
+  "despues": "48950000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9781861",
+  "ref": "CPS-313-2026",
+  "objeto": "PRESTAR LOS SERVICIOS DE APOYO EN EL AREA DE LIQUIDACIONES Y MATRÍCULAS DE LA SECRETARIA DE MOVILIDAD HUMANA DEL MUNICIPIO DE CAUCASIA",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "prorroga",
+  "antes": "0",
+  "despues": "46"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9781861",
+  "ref": "CPS-313-2026",
+  "objeto": "PRESTAR LOS SERVICIOS DE APOYO EN EL AREA DE LIQUIDACIONES Y MATRÍCULAS DE LA SECRETARIA DE MOVILIDAD HUMANA DEL MUNICIPIO DE CAUCASIA",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "estado",
+  "antes": "En ejecución",
+  "despues": "Modificado"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9762426",
+  "ref": "COP-004-2026",
+  "objeto": "CONSTRUCCIÓN DE LA PRIMERA ETAPA DE LA PISTA DE PATINAJE; IMPLEMENTANDO ENERGÍAS ALTERNATIVAS; EN LA CABECERA MUNICIPAL DE NECHÍ; DEPARTAMENTO DE ANTIOQUIA CON ",
+  "entidad": "REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "1251403295"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9769334",
+  "ref": "CPS-297-2026",
+  "objeto": "FORTALECIMIENTO EN LA SECRETARÍA MOVILIDAD HUMANA COMO\nAPOYO AL AREA DE COBRO COACTIVO PARA EL DESARROLLO DE LA\nSEGURIDAD DEL TRANSPORTE EN EL MUNICIPIO DE CAUC",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "prorroga",
+  "antes": "0",
+  "despues": "30"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9769334",
+  "ref": "CPS-297-2026",
+  "objeto": "FORTALECIMIENTO EN LA SECRETARÍA MOVILIDAD HUMANA COMO\nAPOYO AL AREA DE COBRO COACTIVO PARA EL DESARROLLO DE LA\nSEGURIDAD DEL TRANSPORTE EN EL MUNICIPIO DE CAUC",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "estado",
+  "antes": "En ejecución",
+  "despues": "Modificado"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9638251",
+  "ref": "CPS-024-2026",
+  "objeto": "PRESTACIÓN DE SERVICIOS PROFESIONALES PARA REALIZAR ASESORÍA CONTABLE Y FINANCIERA PARA LA REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA",
+  "entidad": "REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "4033333"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9624481",
+  "ref": "CPS-023-2026",
+  "objeto": "PRESTAR SERVICIOS DE APOYO A LA SUBDIRECCIÓN ADMINISTRATIVA Y FINANCIERA; MEDIANTE LA GESTIÓN DOCUMENTAL; REVISIÓN DE SOPORTES; CONSOLIDACIÓN DE INFORMACIÓN Y S",
+  "entidad": "REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA",
+  "tipo": "pago",
+  "antes": "1500000",
+  "despues": "3300000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9614223",
+  "ref": "CPS-022-2026",
+  "objeto": "PRESTACIÓN DE SERVICIOS DE APOYO A LA GESTIÓN PARA BRINDAR ASISTENCIA TÉCNICA Y OPERATIVA EN EL DILIGENCIAMIENTO; ACTUALIZACIÓN; SEGUIMIENTO Y REPORTE DE INFORM",
+  "entidad": "REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "2500000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9613581",
+  "ref": "CI-008-2026",
+  "objeto": "CONTRATO INTERADMINISTRATIVO DE MANDATO SIN\nREPRESENTACIÓN POR ADMINISTRACIÓN DELEGADA DE RECURSOS\nPARA EL MEJORAMIENTO; MANTENIMIENTO Y DOTACION DE LA\nINFRAEST",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "prorroga",
+  "antes": "0",
+  "despues": "58"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9613581",
+  "ref": "CI-008-2026",
+  "objeto": "CONTRATO INTERADMINISTRATIVO DE MANDATO SIN\nREPRESENTACIÓN POR ADMINISTRACIÓN DELEGADA DE RECURSOS\nPARA EL MEJORAMIENTO; MANTENIMIENTO Y DOTACION DE LA\nINFRAEST",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "estado",
+  "antes": "En ejecución",
+  "despues": "Modificado"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9580538",
+  "ref": "CO1.PCCNTR.9580538",
+  "objeto": "5_9501_485 PRESTAR EL SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO DEL PARQUE AUTOMOTOR DEL COMPLEJO TECNOLÓGICO PARA LA GESTIÓN AGROEMPRESARIAL",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "43529997.03"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9486943",
+  "ref": "COP-002-2026",
+  "objeto": "CONSTRUCCIÓN DE UNA PISTA DE PATINAJE PARA EL DESARROLLO DEPORTIVO INTEGRAL Y RECREATIVO EN EL CORREGIMIENTO DE SAN ANTONIO MUNICIPIO DE ISTMINA; DEPARTAMENTO D",
+  "entidad": "REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "1583065506.05"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9516733",
+  "ref": "CO1.PCCNTR.9516733",
+  "objeto": "5_9501_484 CONTRATAR EL SUMINISTRO DE MATERIALES DE FERRETERÍA Y CONSTRUCCIÓN PARA EL COMPLEJO TECNOLÓGICO PARA LA GESTIÓN AGROEMPRESARIAL",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "20021090.09"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9293939",
+  "ref": "CPS-017-2026",
+  "objeto": "PRESTACION DE SERVICIOS PROFESIONALES DE FORMA AUTONOMA E INDEPENDIENTE PARA BRINDAR APOYO A LA REGION DE PLANEACION Y GESTION BAJO CAUCA RPG- BC EN LA SUPERVIS",
+  "entidad": "REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA",
+  "tipo": "pago",
+  "antes": "29883333",
+  "despues": "35383333"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9287573",
+  "ref": "PSP-ANT-CTPGA-177-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "33004562"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9280372",
+  "ref": "PSP-ANT-CTPGA-182-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial y/o\nvirtual en los progra",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "14054574"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9261621",
+  "ref": "PSP-ANT-CTPGA-179-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "37742059"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9258216",
+  "ref": "PSP-ANT-CTPGA-178-2026",
+  "objeto": "5_9501_59 Prestar servicios de apoyo a la gestión para desarrollar procesos de capacitación y acompañamiento técnico en campo; orientados a la recuperación; tra",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "34400000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9263821",
+  "ref": "PSP-ANT-CTPGA-181-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267061"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9262687",
+  "ref": "PSP-ANT-CTPGA-180-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "33004562"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9259657",
+  "ref": "PSP-ANT-CTPGA-176-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054576",
+  "despues": "28267067"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9259000",
+  "ref": "PSP-ANT-CTPGA-175-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "33004562"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9232618",
+  "ref": "PSP-ANT-CTPGA-171-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "33162479"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9256985",
+  "ref": "PSP-ANT-CTPGA-174-2026",
+  "objeto": "5_9501_529 Prestar los servicios personales de apoyo a la gestión administrativa; de carácter no financiero; orientados al acompañamiento y fortalecimiento de l",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14976333",
+  "despues": "22506333"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9216200",
+  "ref": "PSP-ANT-CTPGA-160-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "37742059"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9231415",
+  "ref": "PSP-ANT-CTPGA-170-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9222551",
+  "ref": "PSP-ANT-CTPGA-165-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación complementaria virtual en los programas de la Familia y/o Área de Gestión Organiz",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9232620",
+  "ref": "PSP-ANT-CTPGA-172-2026",
+  "objeto": "Prestación de servicios personales de carácter temporal como instructor formación titulada y/o complementaria; en la modalidad presencial y/o virtual de la red ",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "37426226"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9185861",
+  "ref": "PSP-ANT-CTPGA-145-2026",
+  "objeto": "5_9501_58 Prestar los servicios profesionales como facilitador para asegurar el acompañamiento a las comunidades beneficiarias del proyecto IAP Biofertilizantes",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "38400000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9227784",
+  "ref": "PSP-ANT-CTPGA-162-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "23529568"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9223686",
+  "ref": "PSP-ANT-CTPGA-166-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "37742059"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9228467",
+  "ref": "PSP-ANT-CTPGA-161-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9224818",
+  "ref": "PSP-ANT-CTPGA-167-2026",
+  "objeto": "Prestación de servicios personales de carácter temporal como instructor\nformación titulada y/o complementaria; en la modalidad presencial y/o\nvirtual de la red ",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9225280",
+  "ref": "PSP-ANT-CTPGA-168-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "33004563"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9230199",
+  "ref": "PSP-ANT-CTPGA-169-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9194463",
+  "ref": "PSP-ANT-CTPGA-155-2026",
+  "objeto": "5_9501_60 Prestar servicios de apoyo a la gestión para desarrollar procesos de capacitación y acompañamiento técnico en campo; orientados a la recuperación; tra",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "34400000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9177798",
+  "ref": "PSP-ANT-CTPGA-138-2026",
+  "objeto": "5_9501_66 Prestar servicios de apoyo a la gestión para desarrollar procesos de capacitación y acompañamiento técnico en campo; orientados a la recuperación; tra",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "34400000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9194543",
+  "ref": "PSP-ANT-CTPGA-156-2026",
+  "objeto": "5_9501_61 Prestar servicios de apoyo a la gestión para desarrollar procesos de capacitación y acompañamiento técnico en campo; orientados a la recuperación; tra",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "34400000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9189950",
+  "ref": "PSP-ANT-CTPGA-147-2026",
+  "objeto": "5_9501_70 Prestar servicios de apoyo a la gestión para desarrollar procesos de capacitación y acompañamiento técnico en campo; orientados a la recuperación; tra",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "34400000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9192456",
+  "ref": "PSP-ANT-CTPGA-151-2026",
+  "objeto": "5_9501_71 Prestar servicios de apoyo a la gestión para desarrollar procesos de capacitación y acompañamiento técnico en campo; orientados a la recuperación; tra",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "34400000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9161578",
+  "ref": "PSP-ANT-CTPGA-136-2026",
+  "objeto": "5_9501_63 Prestar servicios de apoyo a la gestión para desarrollar procesos de capacitación y acompañamiento técnico en campo; orientados a la recuperación; tra",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "34400000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9138791",
+  "ref": "PSP-ANT-CTPGA-133-2026",
+  "objeto": "Prestar servicios profesionales y/o de apoyo a la gestión; en la planeación y\nejecución de la formación; así como la evaluación de los resultados de\naprendizaje",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9213171",
+  "ref": "PSP-ANT-CTPGA-158-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9213389",
+  "ref": "PSP-ANT-CTPGA-159-2026",
+  "objeto": "5_9501_19 Prestación de servicios de carácter temporal de un tecnologo para apoyar el desarrollo y organización de las colecciones y los servicios de informació",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "3064000",
+  "despues": "24512000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9127993",
+  "ref": "PSP-ANT-CTPGA-127-2026",
+  "objeto": "5_9501_56 Prestar los servicios profesionales como facilitador para asegurar el acompañamiento a las comunidades beneficiarias del proyecto IAP Biofertilizantes",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "38400000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9192621",
+  "ref": "PSP-ANT-CTPGA-152-2026",
+  "objeto": "5_9501_522 Prestar servicios de apoyo a la gestión para desarrollar procesos de capacitación y acompañamiento técnico en campo; orientados a la recuperación; tr",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "34400000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9191128",
+  "ref": "PSP-ANT-CTPGA-148-2026",
+  "objeto": "5_9501_67 Prestar servicios de apoyo a la gestión para desarrollar procesos de capacitación y acompañamiento técnico en campo; orientados a la recuperación; tra",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "34400000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9126251",
+  "ref": "PSP-ANT-CTPGA-121-2026",
+  "objeto": "5_9501_52 Prestar los servicios profesionales como facilitador para asegurar el acompañamiento a las comunidades beneficiarias del proyecto IAP Biofertilizantes",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "38400000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9191599",
+  "ref": "PSP-ANT-CTPGA-150-2026",
+  "objeto": "5_9501_54 Prestar los servicios profesionales como facilitador para asegurar el acompañamiento a las comunidades beneficiarias del proyecto IAP Biofertilizantes",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "38400000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9191720",
+  "ref": "PSP-ANT-CTPGA-149-2026",
+  "objeto": "5_9501_68 Prestar servicios de apoyo a la gestión para desarrollar procesos de capacitación y acompañamiento técnico en campo; orientados a la recuperación; tra",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "34400000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9127803",
+  "ref": "PSP-ANT-CTPGA-122-2026",
+  "objeto": "5_9501_57 Prestar los servicios profesionales como facilitador para asegurar el acompañamiento a las comunidades beneficiarias del proyecto IAP Biofertilizantes",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "38400000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9195267",
+  "ref": "PSP-ANT-CTPGA-157-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación en la modalidad presencial en el marco del programa de formación continua especia",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "11843742",
+  "despues": "26056233"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9159989",
+  "ref": "PSP-ANT-CTPGA-135-2026",
+  "objeto": "5_9501_64 Prestar servicios de apoyo a la gestión para desarrollar procesos de capacitación y acompañamiento técnico en campo; orientados a la recuperación; tra",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "34400000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9185179",
+  "ref": "PSP-ANT-CTPGA-146-2026",
+  "objeto": "5_9501_69 Prestar servicios de apoyo a la gestión para desarrollar procesos de capacitación y acompañamiento técnico en campo; orientados a la recuperación; tra",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "35411021"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9179942",
+  "ref": "PSP-ANT-CTPGA-141-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9178639",
+  "ref": "PSP-ANT-CTPGA-139-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "18792071"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9138341",
+  "ref": "PSP-ANT-CTPGA-131-2026",
+  "objeto": "Prestar servicios profesionales y/o de apoyo a la gestión; en la planeación y\nejecución de la formación; así como la evaluación de los resultados de\naprendizaje",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9138218",
+  "ref": "PSP-ANT-CTPGA-130-2026",
+  "objeto": "Prestar servicios profesionales y/o de apoyo a la gestión; en la planeación y\nejecución de la formación; así como la evaluación de los resultados de\naprendizaje",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9179120",
+  "ref": "PSP-ANT-CTPGA-140-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9127232",
+  "ref": "PSP-ANT-CTPGA-124-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9136584",
+  "ref": "PSP-ANT-CTPGA-125-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9181017",
+  "ref": "PSP-ANT-CTPGA-142-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación en la modalidad presencial en el marco del programa de formación continua especia",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "11843742",
+  "despues": "26056233"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9186499",
+  "ref": "PSP-ANT-CTPGA-143-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9126041",
+  "ref": "PSP-ANT-CTPGA-026-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9177549",
+  "ref": "PSP-ANT-CTPGA-137-2026",
+  "objeto": "5_9501_65 Prestar servicios de apoyo a la gestión para desarrollar procesos de capacitación y acompañamiento técnico en campo; orientados a la recuperación; tra",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "34400000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9094312",
+  "ref": "PSP-ANT-CTPGA-108-2026",
+  "objeto": "5_9501_16 Prestar los servicios de conducción del AULA MÓVIL atendiendo los desplazamientos a territorios programados por la Coordinación Académica del Centro d",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "7781000",
+  "despues": "17821000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9123778",
+  "ref": "PSP-ANT-CTPGA-120-2026",
+  "objeto": "5_9501_55 Prestar los servicios profesionales como facilitador para asegurar el acompañamiento a las comunidades beneficiarias del proyecto IAP Biofertilizantes",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "38400000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9125185",
+  "ref": "PSP-ANT-CTPGA-017-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9124688",
+  "ref": "PSP-ANT-CTPGA-010-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9137633",
+  "ref": "PSP-ANT-CTPGA-128-2026",
+  "objeto": "Prestar servicios profesionales y/o de apoyo a la gestión; en la planeación y\nejecución de la formación; así como la evaluación de los resultados de\naprendizaje",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9125279",
+  "ref": "PSP-ANT-CTPGA-018-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9137789",
+  "ref": "PSP-ANT-CTPGA-129-2026",
+  "objeto": "Prestar servicios profesionales y/o de apoyo a la gestión; en la planeación y\nejecución de la formación; así como la evaluación de los resultados de\naprendizaje",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9126982",
+  "ref": "PSP-ANT-CTPGA-123-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9136694",
+  "ref": "PSP-ANT-CTPGA-126-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9138837",
+  "ref": "PSP-ANT-CTPGA-132-2026",
+  "objeto": "Prestar servicios profesionales y/o de apoyo a la gestión; en la planeación y\nejecución de la formación; así como la evaluación de los resultados de\naprendizaje",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9099655",
+  "ref": "PSP-ANT-CTPGA-111-2026",
+  "objeto": "5_9501_87 Prestar los servicios personales de apoyo al área de comunicaciones con el objetivo de fortalecer las actividades de promoción y fortalecimiento insti",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "20800000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9109524",
+  "ref": "PSP-ANT-CTPGA-118-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial y/o\nvirtual en los progra",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "33636238"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9123085",
+  "ref": "PSP-ANT-CTPGA-119-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "38689559"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9153241",
+  "ref": "PSP-ANT-CTPGA-134-2026",
+  "objeto": "No definido",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "12156183",
+  "despues": "26566783"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9098557",
+  "ref": "PSP-ANT-CTPGA-110-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "29097707"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9102041",
+  "ref": "PSP-ANT-CTPGA-116-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad virtual en los\nprogramas de formació",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "29214564"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8947651",
+  "ref": "PSP-ANT-CTPGA-070-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial y/o virtual en los progra",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "33952062"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9096839",
+  "ref": "PSP-ANT-CTPGA-030-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "39479142"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9101668",
+  "ref": "PSP-ANT-CTPGA-115-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad virtual en los programas de formació",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "29214564"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9072891",
+  "ref": "PSP-ANT-CTPGA-107-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial y/o virtual en los progra",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9100175",
+  "ref": "PSP-ANT-CTPGA-114-2026",
+  "objeto": "Prestación de servicios personales de carácter temporal como instructor formación titulada y/o complementaria; en la modalidad virtual de la red tecnológica TEC",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "29214565"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9095457",
+  "ref": "PSP-ANT-CTPGA-029-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "15002074",
+  "despues": "29214565"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9108500",
+  "ref": "PSP-ANT-CTPGA-117-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "38689559"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9097719",
+  "ref": "PSP-ANT-CTPGA-033-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o\ncomplementaria; en la modalidad virtual en los programas de formació",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "29214565"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9030292",
+  "ref": "PSP-ANT-CTPGA-101-2026",
+  "objeto": "Prestación de servicios personales de carácter temporal como instructor\nformación titulada y/o complementaria; en la modalidad presencial y/o\nvirtual de la red ",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "38689559"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9041071",
+  "ref": "PSP-ANT-CTPGA-016-2026",
+  "objeto": "Prestar servicios profesionales y/o de apoyo a la gestión; en la planeación y\nejecución de la formación; así como la evaluación de los resultados de\naprendizaje",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9066087",
+  "ref": "PSP-ANT-CTPGA-019-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "33952062"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9066596",
+  "ref": "PSP-ANT-CTPGA-020-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial y/o virtual en los progra",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "38689559"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8948818",
+  "ref": "PSP-ANT-CTPGA-044-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "38689559"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9033138",
+  "ref": "PSP-ANT-CTPGA-091-2026",
+  "objeto": "5_9501_18 Prestar servicios personales y de apoyo a la gestión; de carácter temporal; como Intérprete de Lenguaje de Señas; para realizar actividades de interpr",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "27766666"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8952664",
+  "ref": "PSP-ANT-CTPGA-034-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "29214565"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9057662",
+  "ref": "PSP-ANT-CTPGA-104-2026",
+  "objeto": "5_9501_26 Prestar los servicios personales de apoyo a la gestión técnica y administrativa; de registros y atención a usuarios; en el marco de la ejecución del p",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "8123892",
+  "despues": "10831856"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9035851",
+  "ref": "PSP-ANT-CTPGA-022-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8996385",
+  "ref": "PSP-ANT-CTPGA-085-2026",
+  "objeto": "Prestar servicios profesionales y/o de apoyo a la gestión; en la planeación y\nejecución de la formación; así como la evaluación de los resultados de\naprendizaje",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14212491",
+  "despues": "28424982"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8994709",
+  "ref": "PSP-ANT-CTPGA-082-2026",
+  "objeto": "Prestar servicios profesionales y/o de apoyo a la gestión; en la planeación y\nejecución de la formación; así como la evaluación de los resultados de\naprendizaje",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9001918",
+  "ref": "PSP-ANT-CTPGA-089-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "33952062"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9034892",
+  "ref": "PSP-ANT-CTPGA-012-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14289752",
+  "despues": "28502243"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8994999",
+  "ref": "PSP-ANT-CTPGA-083-2026",
+  "objeto": "Prestar servicios profesionales y/o de apoyo a la gestión; en la planeación y\nejecución de la formación; así como la evaluación de los resultados de\naprendizaje",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9036303",
+  "ref": "PSP-ANT-CTPGA-015-2026",
+  "objeto": "Prestar servicios profesionales y/o de apoyo a la gestión; en la planeación y ejecución de la formación; así como la evaluación de los resultados de aprendizaje",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9003789",
+  "ref": "PSP-ANT-CTPGA-037-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "29214565"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9010360",
+  "ref": "PSP-ANT-CTPGA-008-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "4579580",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9011593",
+  "ref": "PSP-ANT-CTPGA-009-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9004062",
+  "ref": "PSP-ANT-CTPGA-007-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054374",
+  "despues": "28266865"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9029778",
+  "ref": "PSP-ANT-CTPGA-099-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "38689559"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8936343",
+  "ref": "PSP-ANT-CTPGA-041-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "29214565"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9002813",
+  "ref": "PSP-ANT-CTPGA-088-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9002520",
+  "ref": "PSP-ANT-CTPGA-090-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial y/o virtual en los progra",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "33952061"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9001305",
+  "ref": "PSP-ANT-CTPGA-086-2026",
+  "objeto": "Prestar servicios profesionales y/o de apoyo a la gestión; en la planeación y\nejecución de la formación; así como la evaluación de los resultados de\naprendizaje",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9056320",
+  "ref": "PSP-ANT-CTPGA-103-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "38689559"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9008378",
+  "ref": "PSP-ANT-CTPGA-094-2026",
+  "objeto": "5_9501_28 PRESTAR SERVICIOS DE APOYO A LA GESTIÓN EN EL DESARROLLO DE LAS ACTIVIDADES DE EVALUACIÓN DE COMPETENCIAS LABORALES EN LAS ÁREAS CLAVES DE GESTIÓN ADM",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "7689000",
+  "despues": "10252000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9062559",
+  "ref": "CPS-014-2026",
+  "objeto": "PRESTACION DE SERVICIOS DE APOYO A LA GESTION PARA BRINDAR ACOMPAÑAMIENTO TECNICO Y ADMINISTRATIVO A LA SUPERVISION; MONITOREO; CONTROL Y SEGUIMIENTO DE LA EJEC",
+  "entidad": "REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA",
+  "tipo": "pago",
+  "antes": "18150000",
+  "despues": "34650000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9055348",
+  "ref": "CPS-013-2026",
+  "objeto": "PRESTACION DE SERVICIOS DE APOYO A LA GESTION COMO AUXILIAR EN CONTABILIDAD Y FINANZAS EN LA REGIÓN DE PLANEACION Y GESTION DEL BAJO CAUCA RPG-BC",
+  "entidad": "REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA",
+  "tipo": "pago",
+  "antes": "17167000",
+  "despues": "22167000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9007722",
+  "ref": "PSP-ANT-CTPGA-093-2026",
+  "objeto": "5_9501_32 PRESTAR SERVICIOS DE APOYO A LA GESTIÓN PARA APOYAR EN EL DESARROLLO DE LAS ACTIVIDADES DE EVALUACIÓN DE COMPETENCIAS LABORALES EN EL ÁREA CLAVE DE SE",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "9354000",
+  "despues": "12472000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9009921",
+  "ref": "PSP-ANT-CTPGA-095-2026",
+  "objeto": "5_9501_25 PRESTAR SERVICIOS PROFESIONALES PARA EL APOYO TÉCNICO Y ADMINISTRATIVO EN LA EJECUCIÓN DEL PROCESO GESTIÓN DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCI",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "15900000",
+  "despues": "21200000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9055061",
+  "ref": "CPS-012-2026",
+  "objeto": "PRESTAR LOS SERVICIOS DE APOYO DE MANERA AUTONOMA E INDEPENDIENTE COMO CONDUCTOR DEL VEHICULO OFICIAL TIPO CAMIONETA DE PROPIEDAD DE LA REGION DE PLANEACION Y G",
+  "entidad": "REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA",
+  "tipo": "pago",
+  "antes": "14666000",
+  "despues": "22916000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8984901",
+  "ref": "PSP-ANT-CTPGA-080-2026",
+  "objeto": "Prestar servicios profesionales y/o de apoyo a la gestión; en la planeación y\nejecución de la formación; así como la evaluación de los resultados de\naprendizaje",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9030386",
+  "ref": "PSP-ANT-CTPGA-100-2026",
+  "objeto": "5_9501_13 Prestar servicios profesionales para la planificación; gestión y monitoreo de los servicios tecnológicos en el marco de las Tecnologías de la Informac",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "17681667",
+  "despues": "44204167"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9014229",
+  "ref": "PSP-ANT-CTPGA-014-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8948236",
+  "ref": "PSP-ANT-CTPGA-043-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "33952062"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8952987",
+  "ref": "PSP-ANT-CTPGA-075-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "38689559"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8976805",
+  "ref": "PSP-ANT-CTPGA-076-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "15002074",
+  "despues": "29214565"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8993939",
+  "ref": "PSP-ANT-CTPGA-081-2026",
+  "objeto": "Prestar servicios profesionales y/o de apoyo a la gestión; en la planeación y\nejecución de la formación; así como la evaluación de los resultados de\naprendizaje",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9006259",
+  "ref": "PSP-ANT-CTPGA-021-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9005998",
+  "ref": "PSP-ANT-CTPGA-013-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9001179",
+  "ref": "PSP-ANT-CTPGA-087-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "33952062"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8995480",
+  "ref": "PSP-ANT-CTPGA-084-2026",
+  "objeto": "Prestar servicios profesionales y/o de apoyo a la gestión; en la planeación y\nejecución de la formación; así como la evaluación de los resultados de\naprendizaje",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14054574",
+  "despues": "28267065"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9005759",
+  "ref": "PSP-ANT-CTPGA-025-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "9317077",
+  "despues": "23529568"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9003720",
+  "ref": "PSP-ANT-CTPGA-092-2026",
+  "objeto": "Prestación de servicios personales de carácter temporal como instructor formación titulada y/o complementaria; en la modalidad presencial y/o virtual de la red ",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "33952062"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9000905",
+  "ref": "PSP-ANT-CTPGA-032-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "33952062"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.9014371",
+  "ref": "CPS-011-2026",
+  "objeto": "PRESTACION SERVICIOS PARA CONTRIBUIR AL FORTALECIMIENTO INSTITUCIONAL MEDIANTE EL DESARROLLO DE UNA ESTRATEGIA DE COMUNICACIONES; LA CUAL PERMITA DIVULGAR ACTIV",
+  "entidad": "REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA",
+  "tipo": "pago",
+  "antes": "16369500",
+  "despues": "25669500"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8952133",
+  "ref": "PSP-ANT-CTPGA-074-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "38689559"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8949904",
+  "ref": "PSP-ANT-CTPGA-046-2026",
+  "objeto": "Prestación de servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial y/o\nvirtual de la r",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "29214565"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8950462",
+  "ref": "PSP-ANT-CTPGA-047-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "33952062"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8928372",
+  "ref": "PSP-ANT-CTPGA-067-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "33952062"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8951271",
+  "ref": "PSP-ANT-CTPGA-031-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "29210565"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8948070",
+  "ref": "PSP-ANT-CTPGA-071-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial y/o\nvirtual en los progra",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "38689559"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8950699",
+  "ref": "PSP-ANT-CTPGA-042-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "29214565"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8909499",
+  "ref": "PSP-ANT-CTPGA-063-2026",
+  "objeto": "5_9501_40 PRESTACIÓN DE SERVICIOS DE APOYO COMO TALLERISTA PARA REALIZAR LAS ACTIVIDADES DEPORTIVAS Y/O CULTURALES A LOS GRUPOS DE SERVIDORES PÚBLICOS DE ACUERD",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "2500000",
+  "despues": "5000000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8982913",
+  "ref": "CPS-008-2026",
+  "objeto": "PRESTAR LOS SERVICIOS PERSONALES DE FORMA AUTONOMA E INDEPENDIENTE COMO APOYO A LA GESTIÓN EN LAS TAREAS OPERATIVAS DE ASEO Y SERVICIOS GENERALES EN LAS INSTALA",
+  "entidad": "REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA",
+  "tipo": "pago",
+  "antes": "9960000",
+  "despues": "11760000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8932381",
+  "ref": "PSP-ANT-CTPGA-038-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "33952062"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8933885",
+  "ref": "PSP-ANT-CTPGA-039-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "33952062"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8929744",
+  "ref": "PSP-ANT-CTPGA-068-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial y/o virtual en los progra",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "38689559"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8949434",
+  "ref": "PSP-ANT-CTPGA-073-2026",
+  "objeto": "5_9501_14 Prestar servicios de apoyo a la gestión; orientados al desarrollo de actividades técnicas y de soporte en sitio; así como a la implementación y config",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14804849",
+  "despues": "28146717"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8934899",
+  "ref": "PSP-ANT-CTPGA-040-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de\nformación titulada y/o complementaria; en la modalidad presencial en los\nprogramas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "29214565"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8930869",
+  "ref": "PSP-ANT-CTPGA-069-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "29214565"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8949166",
+  "ref": "PSP-ANT-CTPGA-072-2026",
+  "objeto": "5_9501_15 Prestar servicios de apoyo a la gestión; orientados al desarrollo de actividades técnicas y de soporte en sitio; así como a la implementación y config",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14804849",
+  "despues": "28146717"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8939301",
+  "ref": "CPS-007-2026",
+  "objeto": "PRESTACION DE SERVICIOS PROFESIONALES PARA BRINDAR ACOMPAÑAMIENTO EN LA GESTIÓN ADMINISTRATIVA Y EN LOS PROCESOS CONTRACTUALES A CARGO DE LA RPG BC",
+  "entidad": "REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA",
+  "tipo": "pago",
+  "antes": "30434000",
+  "despues": "46934000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8910369",
+  "ref": "PSP-ANT-CTPGA-065-2026",
+  "objeto": "5_9501_21 Prestar servicios personales de carácter temporal como profesional para apoyar el monitoreo de los programas de articulación con educación media: en e",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14392878",
+  "despues": "28785756"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8878224",
+  "ref": "PSP-ANT-CTPGA-053-2026",
+  "objeto": "5_9501_23 Prestar servicios personales de carácter temporal para llevar a cabo actividades derivadas de los procesos agrícolas; pecuarios; avícolas; piscícola y",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "8559897",
+  "despues": "16089897"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8883388",
+  "ref": "PSP-ANT-CTPGA-057-2026",
+  "objeto": "5_9501_84 Prestar servicios de apoyo a la gestión administrativa del área de formación complementaria y poblaciones vulnerables en el centro de formación asigna",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "8680000",
+  "despues": "16480000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8883851",
+  "ref": "PSP-ANT-CTPGA-058-2026",
+  "objeto": "5_9501_17 Prestar los servicios de conducción del BUS atendiendo los desplazamientos a territorios programados por la Coordinación Académica del Centro de Forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "11024447",
+  "despues": "21064447"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8879724",
+  "ref": "PSP-ANT-CTPGA-054-2026",
+  "objeto": "5_9501_22 PRESTAR SERVICIOS PERSONALES DE CARACTER TEMPORAL PARA LLEVAR A CABO ACTIVIDADES DERIVADAS DE LOS PROCESOS AGRÍCOLAS; PECUARIOS; AVÍCOLAS; ACUÍCOLAS; ",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "8579977",
+  "despues": "16109977"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8878292",
+  "ref": "PSP-ANT-CTPGA-051-2026",
+  "objeto": "5_9501_20 Prestar servicios profesionales; de ingeniería/arquitectura; brindando acompañamiento técnico y especializado en la formulación; estructuración; ejecu",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "23330736",
+  "despues": "44069168"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8879043",
+  "ref": "PSP-ANT-CTPGA-056-2026",
+  "objeto": "Prestar servicios personales para liderar la ejecución de las actividades relacionadas con los procesos de almacén e inventarios del Complejo Tecnológico para l",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "15677335",
+  "despues": "28219203"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8877787",
+  "ref": "PSP-ANT-CTPGA-052-2026",
+  "objeto": "5_9501_12 Prestar servicios tecnológicos para realizar las actividades de seguimiento; administración y mejora continua de los Sistemas de Gestión Ambiental (IS",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "14016753",
+  "despues": "26476089"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8865390",
+  "ref": "PSP-ANT-CTPGA-050-2026",
+  "objeto": "5_9501_11 Prestar los servicios profesionales para la implementación; mantenimiento; seguimiento y mejora del Sistema Integrado de Gestión y Autocontrol (SIGA);",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "21078473",
+  "despues": "39814893"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8865339",
+  "ref": "PSP-ANT-CTPGA-049-2026",
+  "objeto": "5_9501_01 PRESTAR LOS SERVICIOS PERSONALES PARA ASISTIR ADMINISTRATIVAMENTE LA ACTIVIDAD CONTRACTUAL Y APOYO A LA SUPERVISIÓN DE LOS CONTRATOS CELEBRADOS POR EL",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "17300600",
+  "despues": "36634600"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8863857",
+  "ref": "PSP-ANT-CTPGA-005-2026",
+  "objeto": "Prestar los servicios personales con el objetivo de apoyar las actividades derivadas del proceso de gestión académica; relacionadas con el alistamiento de la pl",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "4294758"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8864473",
+  "ref": "PSP-ANT-CTPGA-048-2026",
+  "objeto": "Prestar servicios personales de asistencia técnica para organizar; custodiar y preservar el patrimonio documental de la entidad; garantizando el acceso y la con",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "11925000",
+  "despues": "22525000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8860982",
+  "ref": "PSP-ANT-CTPGA-004-2026",
+  "objeto": "5_9501_06 Prestación de servicios técnicos para apoyar todas las actividades administrativas relacionadas con Gastos de Viaje/Viáticos del Centro de Formación C",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "11650000",
+  "despues": "22050000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8858480",
+  "ref": "PSP-ANT-CTPGA-001-2026",
+  "objeto": "5_9501_08 Prestar servicios profesionales en derecho para la estructuración y apoyo integral a la gestión contractual y convencional del Complejo Tecnológico pa",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "28644300",
+  "despues": "60471300"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8784178",
+  "ref": "CPS-005-2026",
+  "objeto": "PRESTACIÓN DE SERVICIOS DE APOYO A LA GESTIÓN PARA BRINDAR ACOMPAÑAMIENTO TÉCNICO Y ADMINISTRATIVO A LA SUPERVISIÓN; MONITOREO; CONTROL Y SEGUIMIENTO DE LA EJEC",
+  "entidad": "REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA",
+  "tipo": "pago",
+  "antes": "31900000",
+  "despues": "48400000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8784209",
+  "ref": "CPS-004-2026",
+  "objeto": "PRESTACIÓN DE SERVICIOS DE APOYO A LA GESTIÓN PARA BRINDAR ACOMPAÑAMIENTO TÉCNICO Y ADMINISTRATIVO A LA SUPERVISIÓN; MONITOREO; CONTROL Y SEGUIMIENTO DE LA EJEC",
+  "entidad": "REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA",
+  "tipo": "pago",
+  "antes": "37400000",
+  "despues": "42900000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8782241",
+  "ref": "CPS-003-2026",
+  "objeto": "PRESTACIÓN DE SERVICIOS DE APOYO A LA GESTIÓN PARA BRINDAR ACOMPAÑAMIENTO TÉCNICO Y ADMINISTRATIVO A LA SUPERVISIÓN; MONITOREO; CONTROL Y SEGUIMIENTO DE LA EJEC",
+  "entidad": "REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA",
+  "tipo": "pago",
+  "antes": "37400000",
+  "despues": "48400000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8774807",
+  "ref": "CPS-002-2026",
+  "objeto": "PRESTAR LOS SERVICIOS PROFESIONALES DE MANERA AUTONOMA E INDEPENDIENTE COMO ASESOR JURIDICO Y LEGAL EN LA REGION DE PLANEACION Y GESTIÓN DEL BAJO CAUCA (RPG-BC)",
+  "entidad": "REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA",
+  "tipo": "pago",
+  "antes": "57400000",
+  "despues": "74200000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8773879",
+  "ref": "CPS-001-2026",
+  "objeto": "PRESTAR DE MANERA AUTÓNOMA E INDEPENDIENTE LOS SERVICIOS PROFESIONALES COMO ASESOR JURIDICO EN MATERIA DE CONTRATACIÓN ESTATAL EN LA REGION DE PLANEACION Y GEST",
+  "entidad": "REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA",
+  "tipo": "pago",
+  "antes": "49000000",
+  "despues": "74200000"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.8731019",
+  "ref": "COP-007-2025",
+  "objeto": "CONSTRUCCIÓN DE PLACA POLIDEPORTIVA CUBIERTA EN LA ESCUELA URBANA; IMPLEMENTANDO ENERGÍAS ALTERNATIVAS; EN LA CABECERA MUNICIPAL DE NECHÍ; DEPARTAMENTO DE ANTIO",
+  "entidad": "REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "1097861604"
+ },
+ {
+  "t": "2026-11-06T22:33:46.988Z",
+  "id": "CO1.PCCNTR.10006681",
+  "ref": "COP-005-2026",
+  "objeto": "CONSTRUCCIÓN DE PAVIMENTO DE LA CALLE 1 ESTE DE LA VEREDA CANDELIA; MUNICIPIO DE SAN MARTIN; DEPARTAMENTO DEL CESAR CON BPIN 202600000017821",
+  "entidad": "REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA",
+  "tipo": "cerrado"
+ },
+ {
   "t": "2026-11-05T16:57:51.787Z",
   "id": "CO1.PCCNTR.10131171",
   "ref": "CO1.PCCNTR.10131171",
