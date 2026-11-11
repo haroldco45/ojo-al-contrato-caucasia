@@ -1,5 +1,85 @@
 [
  {
+  "t": "2026-11-11T08:39:45.635Z",
+  "id": "CO1.PCCNTR.9219661",
+  "ref": "PSP-ANT-CTPGA-164-2026",
+  "objeto": "5_9501_62 Prestar servicios de apoyo a la gestión para desarrollar procesos de capacitación y acompañamiento técnico en campo; orientados a la recuperación; tra",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "pago",
+  "antes": "0",
+  "despues": "34400000"
+ },
+ {
+  "t": "2026-11-11T08:39:45.635Z",
+  "id": "CO1.PCCNTR.9282851",
+  "ref": "PSP-ANT-CTPGA-112-2026",
+  "objeto": "5_9501_72 Prestar los servicios personales para impulsar y desarrollar actividades de promoción de la salud y prevención de enfermedades transmisibles y no tran",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "prorroga",
+  "antes": "0",
+  "despues": "14"
+ },
+ {
+  "t": "2026-11-11T08:39:45.635Z",
+  "id": "CO1.PCCNTR.9282851",
+  "ref": "PSP-ANT-CTPGA-112-2026",
+  "objeto": "5_9501_72 Prestar los servicios personales para impulsar y desarrollar actividades de promoción de la salud y prevención de enfermedades transmisibles y no tran",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "estado",
+  "antes": "En ejecución",
+  "despues": "Modificado"
+ },
+ {
+  "t": "2026-11-11T08:39:45.635Z",
+  "id": "CO1.PCCNTR.9059641",
+  "ref": "PSP-ANT-CTPGA-027-2026",
+  "objeto": "5_9501_77 Prestar los servicios personales para apoyar el desarrollo de actividades orientadas al fortalecimiento de habilidades socioemocionales de los aprendi",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "prorroga",
+  "antes": "0",
+  "despues": "13"
+ },
+ {
+  "t": "2026-11-11T08:39:45.635Z",
+  "id": "CO1.PCCNTR.9058960",
+  "ref": "PSP-ANT-CTPGA-024-2026",
+  "objeto": "5_9501_73 Contratar los servicios personales para adelantar y desarrollar acciones orientadas al fortalecimiento del liderazgo y desarrollo humano integral de l",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "prorroga",
+  "antes": "0",
+  "despues": "13"
+ },
+ {
+  "t": "2026-11-11T08:39:45.635Z",
+  "id": "CO1.PCCNTR.8910233",
+  "ref": "PSP-ANT-CTPGA-064-2026",
+  "objeto": "5_9501_80 Contratar servicios personales para promover el deporte; la actividad física y el aprovechamiento del tiempo libre en el gimnasio; dirigidos a los apr",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "prorroga",
+  "antes": "0",
+  "despues": "14"
+ },
+ {
+  "t": "2026-11-11T08:39:45.635Z",
+  "id": "CO1.PCCNTR.8909077",
+  "ref": "PSP-ANT-CTPGA-062-2026",
+  "objeto": "5_9501_76 Prestar los servicios personales para implementar acciones que promuevan expresiones de arte de los aprendices en su formación profesional integral; a",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "prorroga",
+  "antes": "0",
+  "despues": "14"
+ },
+ {
+  "t": "2026-11-11T08:39:45.635Z",
+  "id": "CO1.PCCNTR.8908640",
+  "ref": "PSP-ANT-CTPGA-061-2026",
+  "objeto": "5_9501_75 Contratar los servicios personales para promover el deporte; la actividad física y el aprovechamiento del tiempo libre de los aprendices del centro de",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "prorroga",
+  "antes": "0",
+  "despues": "13"
+ },
+ {
   "t": "2026-11-06T22:33:46.988Z",
   "id": "CO1.PCCNTR.10148627",
   "ref": "CPS-451-2026",
