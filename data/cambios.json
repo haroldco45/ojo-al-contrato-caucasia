@@ -1,5 +1,116 @@
 [
  {
+  "t": "2026-11-12T03:58:25.417Z",
+  "id": "CO1.PCCNTR.10166150",
+  "ref": "CPS-452-2026",
+  "objeto": "PRESTAR SERVICIOS PARA EL FORTALECIMIENTO DE LAS\nCAPACIDADES DE LA COMUNIDAD DEL MUNICIPIO DE CAUCASIA EN EL\nEJERCICIO DE LOS MECANISMOS DE PARTICIPACIÓN SOCIAL",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "nuevo",
+  "despues": "12000000"
+ },
+ {
+  "t": "2026-11-12T03:58:25.417Z",
+  "id": "CO1.PCCNTR.10167337",
+  "ref": "CPS-453-2026",
+  "objeto": "PRESTACIÓN DE SERVICIOS DE APOYO LOGÍSTICO Y\nOPERATIVO PARA LA EJECUCIÓN DEL 12 FESTIVAL DE CINE\nDEL BAJO CAUCA 2026",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "nuevo",
+  "despues": "49000000"
+ },
+ {
+  "t": "2026-11-12T03:58:25.417Z",
+  "id": "CO1.PCCNTR.10165749",
+  "ref": "SA-027-2026",
+  "objeto": "SUMINISTRO DE ALIMENTACIÓN; HOSPEDAJE Y\nSERVICIOS COMPLEMENTARIOS NECESARIOS PARA\nGARANTIZAR LA PERMANENCIA Y EL DESARROLLO DE\nLAS ACTIVIDADES OPERATIVAS DE LOS",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "nuevo",
+  "despues": "297046500"
+ },
+ {
+  "t": "2026-11-12T03:58:25.417Z",
+  "id": "CO1.PCCNTR.10144620",
+  "ref": "CO1.PCCNTR.10144620",
+  "objeto": "CONTRATAR UN OPERADOR ESPECIALIZADO PARA LA ADMINISTRACION; OPERACIÓN Y MANTENIMIENTO DE LOS SISTEMAS DE ACUEDUCTO Y ALCANTARILLADO DEL MUNICIPIO DE CAUCASIA",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "nuevo",
+  "despues": "62545035826"
+ },
+ {
+  "t": "2026-11-12T03:58:25.417Z",
+  "id": "CO1.PCCNTR.10150816",
+  "ref": "CO1.PCCNTR.10150816",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor\nde formación titulada y/o complementaria; en la modalidad presencial y/o\nvirtual en los progra",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "nuevo",
+  "despues": "5842913"
+ },
+ {
+  "t": "2026-11-12T03:58:25.417Z",
+  "id": "CO1.PCCNTR.9790850",
+  "ref": "CPS-329-2026",
+  "objeto": "FORTALECIMIENTO EN LA SECRETARIA DE MOVILIDAD HUMANA COMO APOYO PROFESIONAL EN EL AREA JURIDICA PARA EL DESARROLLO DE LA SEGURIDAD DEL TRANSPORTE EN EL MUNICIPI",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "prorroga",
+  "antes": "0",
+  "despues": "30"
+ },
+ {
+  "t": "2026-11-12T03:58:25.417Z",
+  "id": "CO1.PCCNTR.9790850",
+  "ref": "CPS-329-2026",
+  "objeto": "FORTALECIMIENTO EN LA SECRETARIA DE MOVILIDAD HUMANA COMO APOYO PROFESIONAL EN EL AREA JURIDICA PARA EL DESARROLLO DE LA SEGURIDAD DEL TRANSPORTE EN EL MUNICIPI",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "estado",
+  "antes": "En ejecución",
+  "despues": "Modificado"
+ },
+ {
+  "t": "2026-11-12T03:58:25.417Z",
+  "id": "CO1.PCCNTR.9575634",
+  "ref": "CO1.PCCNTR.9575634",
+  "objeto": "5_9501_499 CONTRATAR LOS SERVICIOS DE UN OPERADOR LOGÍSTICO PARA APOYAR LAS ACTIVIDADES DE LOS DIFERENTES PROGRAMAS Y/O PROYECTOS DE BIENESTAR A LOS FUNCIONARIO",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "estado",
+  "antes": "En ejecución",
+  "despues": "Modificado"
+ },
+ {
+  "t": "2026-11-12T03:58:25.417Z",
+  "id": "CO1.PCCNTR.8910856",
+  "ref": "PSP-ANT-CTPGA-066-2026",
+  "objeto": "5_9501_81 Prestar los servicios personales para implementar acciones que promuevan expresiones de lenguaje artísticos: danza y música y/o afines; en el marco de",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "prorroga",
+  "antes": "0",
+  "despues": "14"
+ },
+ {
+  "t": "2026-11-12T03:58:25.417Z",
+  "id": "CO1.PCCNTR.8923285",
+  "ref": "CI-001-2026",
+  "objeto": "CONTRATO INTERADMINISTRATIVO PARA EL DE APOYO LOGÍSTICO\nPARA LA ALIMENTACIÓN PREPARADA Y VIVERES PARA PERSONAS\nPRIVADAS DE LA LIBERTAD EN CENTRO DE DETENCIÓN TR",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "estado",
+  "antes": "En ejecución",
+  "despues": "Modificado"
+ },
+ {
+  "t": "2026-11-12T03:58:25.417Z",
+  "id": "CO1.PCCNTR.9842948",
+  "ref": "MC-078-2026",
+  "objeto": "MANTENIMIENTO; REPARACIÓN Y ACTUALIZACIÓN DE INTERSECCIONES SEMAFORICAS\nEN EL MUNICIPIO DE CAUCASIA",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "cerrado"
+ },
+ {
+  "t": "2026-11-12T03:58:25.417Z",
+  "id": "CO1.PCCNTR.9542759",
+  "ref": "MC-INT-016-2026",
+  "objeto": "INTERVENTORÍA TÉCNICA; ADMINISTRATIVA; FINANCIERA Y AMBIENTAL A\nLA CONSTRUCCIÓN DE OBRA DE PROTECCION CONTRA EROSION EN LA\nMARGEN DERECHA DEL RIO TARAZÁ; SECTOR",
+  "entidad": "REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA",
+  "tipo": "cerrado"
+ },
+ {
   "t": "2026-11-11T08:39:45.635Z",
   "id": "CO1.PCCNTR.9219661",
   "ref": "PSP-ANT-CTPGA-164-2026",
