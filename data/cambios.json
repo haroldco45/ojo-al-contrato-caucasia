@@ -1,5 +1,131 @@
 [
  {
+  "t": "2026-11-13T08:20:24.189Z",
+  "id": "CO1.PCCNTR.10172850",
+  "ref": "CPS-456-2026",
+  "objeto": "APOYO A LA GESTION COMO INGENIERO CIVIL PARA EL\nSEGUIMIENTO A LOS PROYECTOS DE INFRAESTRUCTURA EN\nVIVIENDA Y MEJORAMIENTO DE LOS SERVICIOS PÚBLICOS EN EL\nMUNICI",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "nuevo",
+  "despues": "16250000"
+ },
+ {
+  "t": "2026-11-13T08:20:24.189Z",
+  "id": "CO1.PCCNTR.10172190",
+  "ref": "CPS-455-2026",
+  "objeto": "FORTALECIMIENTO EN LA SECREATARIA DE INFRAESTRUCTURA;\nCOMO TRABAJADORA SOCIAL PARA REALIZAR EL\nACOMPAÑAMIENTO EN LOS DIFERENTES PROYECTOS DE VIVIENDA\nEN MEJORAM",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "nuevo",
+  "despues": "13750000"
+ },
+ {
+  "t": "2026-11-13T08:20:24.189Z",
+  "id": "CO1.PCCNTR.9993168",
+  "ref": "CPS-434-2026",
+  "objeto": "PRESTACIÓN DE SERVICIOS DE APOYO A LA GESTIÓN\nCOMO MENSAJERO PARA EL FORTALECIMIENTO\nOPERATIVO Y LOGÍSTICO DE LAS INSPECCIONES DE\nPOLICÍA DEL MUNICIPIO DE CAUCA",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "nuevo",
+  "despues": "6644700"
+ },
+ {
+  "t": "2026-11-13T08:20:24.189Z",
+  "id": "CO1.PCCNTR.9980682",
+  "ref": "CAR-004-2026",
+  "objeto": "ARRENDAMIENTO DE INMUEBLE PARA EL DEBIDO\nFUNCIONAMIENTO DE LA COMISARIA SEGUNDA DE\nFAMILIA DEL MUNICIPIO DE CAUCASIA - ANTIOQUIA",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "nuevo",
+  "despues": "30000000"
+ },
+ {
+  "t": "2026-11-13T08:20:24.189Z",
+  "id": "CO1.PCCNTR.9980502",
+  "ref": "CPS-423-2026",
+  "objeto": "PRESTACIÓN DE SERVICIOS DE APOYO A LA GESTIÓN PARA EL FORTALECIMIENTO\nADMINISTRATIVO; DOCUMENTAL; OPERATIVO Y LOGÍSTICO DE LAS COMISARÍAS DE\nFAMILIA DEL MUNICIP",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "nuevo",
+  "despues": "10500000"
+ },
+ {
+  "t": "2026-11-13T08:20:24.189Z",
+  "id": "CO1.PCCNTR.9950415",
+  "ref": "CPS-419-2026",
+  "objeto": "PRESTACIÓN DE SERVICIOS PROFESIONALES COMO\nTRABAJADOR SOCIAL PARA EL FORTALECIMIENTO DEL EQUIPO\nINTERDISCIPLINARIO DE LAS COMISARÍAS DE FAMILIA DEL\nMUNICIPIO DE",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "nuevo",
+  "despues": "15000000"
+ },
+ {
+  "t": "2026-11-13T08:20:24.189Z",
+  "id": "CO1.PCCNTR.9950204",
+  "ref": "CPS-418-2026",
+  "objeto": "PRESTACIÓN DE SERVICIOS PROFESIONALES COMO PSICÓLOGA\nPARA EL APOYO PSICOSOCIAL EN LAS COMISARÍAS DE FAMILIA\nDEL MUNICIPIO DE CAUCASIA; ANTIOQUIA",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "nuevo",
+  "despues": "15000000"
+ },
+ {
+  "t": "2026-11-13T08:20:24.189Z",
+  "id": "CO1.PCCNTR.9948901",
+  "ref": "CPS-417-2026",
+  "objeto": "APOYO A LA GESTION DE CARACTER OPERATIVO PARA LACOMISARIA DE FAMILIA DEL MUNICIPIO DE CAUCASIA",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "nuevo",
+  "despues": "9900000"
+ },
+ {
+  "t": "2026-11-13T08:20:24.189Z",
+  "id": "CO1.PCCNTR.9005759",
+  "ref": "PSP-ANT-CTPGA-025-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "prorroga",
+  "antes": "0",
+  "despues": "10"
+ },
+ {
+  "t": "2026-11-13T08:20:24.189Z",
+  "id": "CO1.PCCNTR.9005759",
+  "ref": "PSP-ANT-CTPGA-025-2026",
+  "objeto": "Prestar servicios personales de carácter temporal como instructor de formación titulada y/o complementaria; en la modalidad presencial en los programas de forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "estado",
+  "antes": "En ejecución",
+  "despues": "Modificado"
+ },
+ {
+  "t": "2026-11-13T08:20:24.189Z",
+  "id": "CO1.PCCNTR.8883851",
+  "ref": "PSP-ANT-CTPGA-058-2026",
+  "objeto": "5_9501_17 Prestar los servicios de conducción del BUS atendiendo los desplazamientos a territorios programados por la Coordinación Académica del Centro de Forma",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "prorroga",
+  "antes": "0",
+  "despues": "11"
+ },
+ {
+  "t": "2026-11-13T08:20:24.189Z",
+  "id": "CO1.PCCNTR.10078190",
+  "ref": "CPS-445-2026",
+  "objeto": "FORTALECIMIENTO EN LA SECRETARIA DE INFRAESTRUCTURA\nCOMO APOYO A LA SUPERVISION DE OBRAS EN EL CAMPO DE SGSST\nDEL\nMUNICIPIO\nDE\nCAUCASIA",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "cerrado"
+ },
+ {
+  "t": "2026-11-13T08:20:24.189Z",
+  "id": "CO1.PCCNTR.10078496",
+  "ref": "CPS-444-2026",
+  "objeto": "APOYO A LA GESTION COMO INGENIERO CIVIL PARA EL\nSEGUIMIENTO A LOS PROYECTOS DE INFRAESTRUCTURA VIAL EN EL\nMUNICIPIO DE CAUCASIA ANTIOQUIA.",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "cerrado"
+ },
+ {
+  "t": "2026-11-13T08:20:24.189Z",
+  "id": "CO1.PCCNTR.10078466",
+  "ref": "CPS-443-2026",
+  "objeto": "FORTALECIMIENTO EN LA SECREATARIA DE INFRAESTRUCTURA;\nCOMO TRABAJADORA SOCIAL PARA REALIZAR EL\nACOMPAÑAMIENTO EN LOS DIFERENTES PROYECTOS DE\nINFRAESTRUCTUIRA VI",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "cerrado"
+ },
+ {
   "t": "2026-11-12T03:58:25.417Z",
   "id": "CO1.PCCNTR.10166150",
   "ref": "CPS-452-2026",
