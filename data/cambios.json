@@ -1,5 +1,77 @@
 [
  {
+  "t": "2026-11-21T07:52:37.789Z",
+  "id": "CO1.PCCNTR.9597182",
+  "ref": "CI-004-2026",
+  "objeto": "INTERVENTORÍA INTEGRAL A LA PUESTA EN MARCHA E IMPLEMENTACIÓN DE UN SISTEMA DE PRODUCCIÓN ACUÍCOLA SOSTENIBLE COMO HERRAMIENTA DE LA ECONOMÍA CAMPESINA Y FAMILI",
+  "entidad": "REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA",
+  "tipo": "prorroga",
+  "antes": "0",
+  "despues": "5"
+ },
+ {
+  "t": "2026-11-21T07:52:37.789Z",
+  "id": "CO1.PCCNTR.9597182",
+  "ref": "CI-004-2026",
+  "objeto": "INTERVENTORÍA INTEGRAL A LA PUESTA EN MARCHA E IMPLEMENTACIÓN DE UN SISTEMA DE PRODUCCIÓN ACUÍCOLA SOSTENIBLE COMO HERRAMIENTA DE LA ECONOMÍA CAMPESINA Y FAMILI",
+  "entidad": "REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA",
+  "tipo": "estado",
+  "antes": "En ejecución",
+  "despues": "Suspendido"
+ },
+ {
+  "t": "2026-11-21T07:52:37.789Z",
+  "id": "CO1.PCCNTR.9587040",
+  "ref": "CPS-021-2026",
+  "objeto": "GARANTIZAR A TODO COSTO LA PUESTA EN MARCHA E IMPLEMENTACIÓN DE UN SISTEMA DE PRODUCCIÓN ACUÍCOLA SOSTENIBLE COMO HERRAMIENTA DE LA ECONOMÍA CAMPESINA Y FAMILIA",
+  "entidad": "REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA",
+  "tipo": "estado",
+  "antes": "En ejecución",
+  "despues": "Suspendido"
+ },
+ {
+  "t": "2026-11-21T07:52:37.789Z",
+  "id": "CO1.PCCNTR.9580538",
+  "ref": "CO1.PCCNTR.9580538",
+  "objeto": "5_9501_485 PRESTAR EL SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO DEL PARQUE AUTOMOTOR DEL COMPLEJO TECNOLÓGICO PARA LA GESTIÓN AGROEMPRESARIAL",
+  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
+  "tipo": "estado",
+  "antes": "En ejecución",
+  "despues": "Modificado"
+ },
+ {
+  "t": "2026-11-21T07:52:37.789Z",
+  "id": "CO1.PCCNTR.9787860",
+  "ref": "CPS-324-2026",
+  "objeto": "PRESTACIÓN DE SERVICIOS COMO MONITORES DE CULTURA DE\nLAS DIFERENTES DISCIPLINAS QUE SE DESARROLLAN EN EL\nMUNICIPIO DE CAUCASIA DEPARTAMENTO DE ANTIOQUIA EN EL\nP",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "cerrado"
+ },
+ {
+  "t": "2026-11-21T07:52:37.789Z",
+  "id": "CO1.PCCNTR.9517631",
+  "ref": "MC-049-2026",
+  "objeto": "SUMINISTRO DE MATERIALES Y TRANSPORTE A TODO COSTO PARA LA CONSTRUCCION\nDE CASETA COMUNAL EN LA VEREDA RISARALDA; ZONA RURAL DEL MUNICIPIO DE\nCAUCASIA ANTIOQUIA",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "cerrado"
+ },
+ {
+  "t": "2026-11-21T07:52:37.789Z",
+  "id": "CO1.PCCNTR.9511297",
+  "ref": "MC-046-2026",
+  "objeto": "MANTENIMIENTO Y ADECUACIÓN DEL CENTRO INTEGRAL DE ATENCIÓN DE ADULTOS MAYORES EN EL BARRIO EL BOSQUE DEL MUNICIPIO DE CAUCASIA DEPARTAMENTO DE ANTIOQUIA",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "cerrado"
+ },
+ {
+  "t": "2026-11-21T07:52:37.789Z",
+  "id": "CO1.PCCNTR.9492845",
+  "ref": "MC-041-2026",
+  "objeto": "SUMINISTRO E INSTALACION DE LUMINARIA COMPLEMENTARIA EN ESPACIOS PUBLICOS\nDEL MUNICIPIO DE CAUCASIA DEPARTAMENTO DE ANTIOQUIA",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "cerrado"
+ },
+ {
   "t": "2026-11-19T13:40:01.034Z",
   "id": "CO1.PCCNTR.10192534",
   "ref": "MC-103-2026",
@@ -2860,85 +2932,5 @@
   "tipo": "prorroga",
   "antes": "0",
   "despues": "46"
- },
- {
-  "t": "2026-10-31T17:50:39.413Z",
-  "id": "CO1.PCCNTR.9060946",
-  "ref": "PSP-ANT-CTPGA-106-2026",
-  "objeto": "Prestar servicios de Apoyo a la Gestión en el desarrollo de las actividades de evaluación de competencias laborales en el área clave de Servicios Ambientales; p",
-  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
-  "tipo": "estado",
-  "antes": "En ejecución",
-  "despues": "Modificado"
- },
- {
-  "t": "2026-10-31T17:50:39.413Z",
-  "id": "CO1.PCCNTR.8860192",
-  "ref": "PSP-ANT-CTPGA-002-2026",
-  "objeto": "5_9501_02 PRESTAR LOS SERVICIOS PERSONALES CON EL FIN DE ASISTIR LOS PROCESOS DEL ÁREA DE APOYO A SUBDIRECCIÓN Y GESTIÓN HUMANA DEL COMPLEJO TECNOLÓGICO PARA LA",
-  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
-  "tipo": "pago",
-  "antes": "14109582",
-  "despues": "29786917"
- },
- {
-  "t": "2026-10-30T16:53:20.403Z",
-  "id": "CO1.PCCNTR.10120544",
-  "ref": "CO1.PCCNTR.10120544",
-  "objeto": "5_9501_573 Prestar los servicios personales de apoyo a la gestión para la clasificación; organización; microfilmación o digitalización y disposición final de la",
-  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
-  "tipo": "estado",
-  "antes": "Aprobado",
-  "despues": "En ejecución"
- },
- {
-  "t": "2026-10-30T16:53:20.403Z",
-  "id": "CO1.PCCNTR.10090840",
-  "ref": "CPS-447-2026",
-  "objeto": "PRESTACIÓN DE SERVICIOS PROFESIONALES PARA EL\nFORTALECIMIENTO DE LA SECRETARÍA DE INFRAESTRUCTURA;\nMEDIANTE EL APOYO TÉCNICO A LA SUPERVISIÓN Y EL\nACOMPAÑAMIENT",
-  "entidad": "ALCALDIA DE CAUCASIA",
-  "tipo": "estado",
-  "antes": "Aprobado",
-  "despues": "En ejecución"
- },
- {
-  "t": "2026-10-30T16:53:20.403Z",
-  "id": "CO1.PCCNTR.10073701",
-  "ref": "CPS-446-2026",
-  "objeto": "PRESTACION DE SERVICIOS DE APOYO A LAS ACTIVIDADES QUE PROMUEVEN EL DESARROLLO EMPRESARIAL DE EMPRENDIMIENTO EXPO CAUCASIA",
-  "entidad": "ALCALDIA DE CAUCASIA",
-  "tipo": "estado",
-  "antes": "Aprobado",
-  "despues": "En ejecución"
- },
- {
-  "t": "2026-10-30T16:53:20.403Z",
-  "id": "CO1.PCCNTR.10033683",
-  "ref": "MC-087-2026",
-  "objeto": "PRESTACIÓN DE SERVICIOS DE APOYO LOGÍSTICO Y SUMINISTRO DE BIENES PARA LA PLANEACIÓN; ORGANIZACIÓN Y EJECUCIÓN DEL FORO DE TURISMO CAUCASIA ENTRE RÍOS Y CULTURA",
-  "entidad": "ALCALDIA DE CAUCASIA",
-  "tipo": "estado",
-  "antes": "Aprobado",
-  "despues": "En ejecución"
- },
- {
-  "t": "2026-10-30T16:53:20.403Z",
-  "id": "CO1.PCCNTR.9806525",
-  "ref": "CPS-360-2026",
-  "objeto": "PRESTACIÓN DE SERVICIOS PROFESIONALES PARA EL\nACOMPAÑAMIENTO SOCIAL EN LOS PROGRAMAS Y PROYECTOS DE\nVIVIENDA EJECUTADO POR EL MUNICIPIO DE CAUCASIA",
-  "entidad": "ALCALDIA DE CAUCASIA",
-  "tipo": "estado",
-  "antes": "Aprobado",
-  "despues": "En ejecución"
- },
- {
-  "t": "2026-10-30T16:53:20.403Z",
-  "id": "CO1.PCCNTR.9609042",
-  "ref": "SA-014-2026",
-  "objeto": "SUMINISTRO DE INSUMOS AGROPECUARIOS PARA EL FORTALECIMIENTO A PEQUEÑOS Y MEDIANOS PRODUCTORES DEL MUNICIPIO DE CAUCASIA",
-  "entidad": "ALCALDIA DE CAUCASIA",
-  "tipo": "estado",
-  "antes": "Aprobado",
-  "despues": "En ejecución"
  }
 ]
