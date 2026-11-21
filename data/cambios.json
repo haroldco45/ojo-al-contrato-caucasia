@@ -1,5 +1,34 @@
 [
  {
+  "t": "2026-11-21T15:48:25.639Z",
+  "id": "CO1.PCCNTR.10205883",
+  "ref": "MC-101-2026",
+  "objeto": "PRESTACIÓN DE SERVICIOS LOGÍSTICOS; OPERATIVOS; PEDAGÓGICOS E INTEGRALES\nPARA LA CONMEMORACIÓN; ORGANIZACIÓN; DEL DÍA INTERNACIONAL DE LA\nELIMINACIÓN DE LA VIOL",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "nuevo",
+  "despues": "48990000"
+ },
+ {
+  "t": "2026-11-21T15:48:25.639Z",
+  "id": "CO1.PCCNTR.10069263",
+  "ref": "CPS-442-2026",
+  "objeto": "PRESTACION DE SERVICIOS DE APOYO A LAS ACTIVIDADES QUE PROMUEVEN EL DESARROLLO EMPRESARIAL AGROPECUARIO Y COMERCIAL FERIA GANADERA CAUCASIA 2026",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "estado",
+  "antes": "Aprobado",
+  "despues": "En ejecución"
+ },
+ {
+  "t": "2026-11-21T15:48:25.639Z",
+  "id": "CO1.PCCNTR.10038289",
+  "ref": "SA-024-2026",
+  "objeto": "PRESTAR LOS SERVICIOS PROFESIONALES DE\nOPTOMETRÍA PARA LA REALIZACIÓN DE HASTA 1.000 VALORACIONES\nINTEGRALES; QUE COMPRENDAN EL INGRESO DEL PACIENTE; ANAMNESIS;",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "estado",
+  "antes": "Aprobado",
+  "despues": "En ejecución"
+ },
+ {
   "t": "2026-11-21T07:52:37.789Z",
   "id": "CO1.PCCNTR.9597182",
   "ref": "CI-004-2026",
@@ -2899,36 +2928,6 @@
   "ref": "CPS-265-2026",
   "objeto": "PRESTACIÓN DE SERVICIOS PROFESIONALES PARA LA GESTIÓN\nY RECUPERACIÓN DE LA CARTERA DEL IMPUESTO PREDIAL\nURBANO DEL MUNICIPIO DE CAUCASIA",
   "entidad": "ALCALDIA DE CAUCASIA",
-  "tipo": "prorroga",
-  "antes": "0",
-  "despues": "46"
- },
- {
-  "t": "2026-10-31T17:50:39.413Z",
-  "id": "CO1.PCCNTR.9755170",
-  "ref": "CPS-265-2026",
-  "objeto": "PRESTACIÓN DE SERVICIOS PROFESIONALES PARA LA GESTIÓN\nY RECUPERACIÓN DE LA CARTERA DEL IMPUESTO PREDIAL\nURBANO DEL MUNICIPIO DE CAUCASIA",
-  "entidad": "ALCALDIA DE CAUCASIA",
-  "tipo": "estado",
-  "antes": "En ejecución",
-  "despues": "Modificado"
- },
- {
-  "t": "2026-10-31T17:50:39.413Z",
-  "id": "CO1.PCCNTR.9060946",
-  "ref": "PSP-ANT-CTPGA-106-2026",
-  "objeto": "Prestar servicios de Apoyo a la Gestión en el desarrollo de las actividades de evaluación de competencias laborales en el área clave de Servicios Ambientales; p",
-  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
-  "tipo": "pago",
-  "antes": "9354000",
-  "despues": "12472000"
- },
- {
-  "t": "2026-10-31T17:50:39.413Z",
-  "id": "CO1.PCCNTR.9060946",
-  "ref": "PSP-ANT-CTPGA-106-2026",
-  "objeto": "Prestar servicios de Apoyo a la Gestión en el desarrollo de las actividades de evaluación de competencias laborales en el área clave de Servicios Ambientales; p",
-  "entidad": "SENA REGIONAL ANTIOQUIA Grupo Administrativo CTPGA",
   "tipo": "prorroga",
   "antes": "0",
   "despues": "46"
