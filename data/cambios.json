@@ -1,5 +1,15 @@
 [
  {
+  "t": "2026-11-23T02:55:58.423Z",
+  "id": "CO1.PCCNTR.8719678",
+  "ref": "CI-024-2025",
+  "objeto": "ADMINISTRACIÓN DELEGADA DE RECURSOS PARA LA\nEJECUCIÓN E INTERVENTORIA DEL PROYECTO PARA LA\nOPTIMIZACION DEL COLECTOR EN EL BARRIO KENNEDY\nDEL MUNICIPIO DE CAUCA",
+  "entidad": "ALCALDIA DE CAUCASIA",
+  "tipo": "prorroga",
+  "antes": "326",
+  "despues": "355"
+ },
+ {
   "t": "2026-11-21T15:48:25.639Z",
   "id": "CO1.PCCNTR.10205883",
   "ref": "MC-101-2026",
@@ -2921,15 +2931,5 @@
   "entidad": "REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA",
   "tipo": "nuevo",
   "despues": "49000000"
- },
- {
-  "t": "2026-10-31T17:50:39.413Z",
-  "id": "CO1.PCCNTR.9755170",
-  "ref": "CPS-265-2026",
-  "objeto": "PRESTACIÓN DE SERVICIOS PROFESIONALES PARA LA GESTIÓN\nY RECUPERACIÓN DE LA CARTERA DEL IMPUESTO PREDIAL\nURBANO DEL MUNICIPIO DE CAUCASIA",
-  "entidad": "ALCALDIA DE CAUCASIA",
-  "tipo": "prorroga",
-  "antes": "0",
-  "despues": "46"
  }
 ]
